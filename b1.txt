@@ -1,2 +1,6 @@
-b1
+b1dxfghjk
+<<<<<<< HEAD
 b1 again in master
+=======
+b1-new
+>>>>>>> first
